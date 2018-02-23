@@ -20,7 +20,7 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             true
+animated:             false
 show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
@@ -69,9 +69,9 @@ telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 # Change to 'true' to enable individual icons
-share_facebook: true
+share_facebook: false
 share_twitter: false
 share_googleplus: false
 share_linkedin: false
