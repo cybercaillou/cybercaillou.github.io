@@ -2,9 +2,9 @@
 title:       CyberCaillou
 email:       shoaz2@yahoo.fr
 author:      sempiternel
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+description: "Blog du caillou"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://cybercaillou.github.io/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
