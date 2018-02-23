@@ -2,11 +2,13 @@
 layout: post
 title:  À Fougères comme ailleurs, pas de caméras !
 date:   2017-10-07 21:55:28 +0100
-summary:    La mairie de Fougères prévoit un développement peu couteux d'un système de vidéo surveillance. Crédible ?
+summary:    La mairie de Fougères prévoit un système de vidéo surveillance peu coûteux. Crédible ou pas ?
 categories: fougeres
 ---
 
-Vieille marotte à Fougères la question de la vidéo-surveillance revient régulièrement dans le débat public, allant jusqu’à toucher des plus petites communes tel que Maen-Roch. Encore après la fête de la musique de cette année, des habitantEs ont demandé sa mise en place à Fougères, et les éluEs recherchent aujourd’hui le moyen de la financer. Pour Maen-Roch c’est un graffiti anarchiste qui illustre l’ article présentant la volonté de l’équipe municipale à se doter d’un tel dispositif, sur les recommandations de la gendarmerie (1). Comme si une empreinte visuelle revendiquant plus d’autonomie, de démocratie, le bien-être collectif et l’autogestion était dangereuse et pouvait justifier des dépenses publiques considérables au nom de la sécurité.
+Vieille marotte à Fougères la question de la vidéo-surveillance revient régulièrement dans le débat public, allant jusqu’à toucher des plus petites communes tel que Maen-Roch. Encore après la fête de la musique de cette année, des habitantEs ont demandé sa mise en place à Fougères, et les éluEs recherchent aujourd’hui le moyen de la financer. Pour Maen-Roch c’est un graffiti anarchiste qui illustre l’ article présentant la volonté de l’équipe municipale à se doter d’un tel dispositif, sur les recommandations de la gendarmerie [^1]. Comme si une empreinte visuelle revendiquant plus d’autonomie, de démocratie, le bien-être collectif et l’autogestion était dangereuse et pouvait justifier des dépenses publiques considérables au nom de la sécurité.
+
+<img src="/images/4916337801_59c8d70a74_b.jpg">
 
 Les caméras sont souvent présentées comme une solution au sentiment d’insécurité, sentiment non corrélé à l’insécurité réelle. Cette problématique est d’ailleurs le plus souvent portée ou alimentée par des éluEs puis reprise par des habitantEs, malgré des chiffres qui n’ont jamais pu prouver l’efficacité de la vidéo surveillance sur les actes délictuels.
 
@@ -18,9 +20,9 @@ Il faut rappeler ici que même quand le sentiment d’insécurité est fondé, c
 
 ### Combien ça coûte ?
 
-D’après un rapport de la Cour des comptes, les frais à prévoir pour s’équiper de caméras est en moyenne de 7 570€ par installation de caméra plus 7 400€ par caméra et par an pour le fonctionnement. Sachant que la ville compte s’équiper de huit caméras et que les subventions de l’Etat couvriraient au maximum 50 % des frais d’installation, on arrive à un total estimé de 89 480€ pour la première année du projet de vidéosurveillance fougerais, et 59 200€ par an par la suite. Soit 59 256€ par an sur 5 ans. (2)
+D’après un rapport de la Cour des comptes, les frais à prévoir pour s’équiper de caméras est en moyenne de 7 570€ par installation de caméra plus 7 400€ par caméra et par an pour le fonctionnement. Sachant que la ville compte s’équiper de huit caméras et que les subventions de l’Etat couvriraient au maximum 50 % des frais d’installation, on arrive à un total estimé de 89 480€ pour la première année du projet de vidéosurveillance fougerais, et 59 200€ par an par la suite. Soit 59 256€ par an sur 5 ans. [^2]
 
-À comparer avec le budget de 24 000€ par an sur cinq ans annoncé par la mairie (14 000€ par an sur cinq ans après soustraction de la subvention de l’Etat pour l’installation, puis 10 000€ par an pour le fonctionnement) qui correspondrait aux dépenses annuelles dues aux dégradations de la ville, soit 25 000€. (3)
+À comparer avec le budget de 24 000€ par an sur cinq ans annoncé par la mairie (14 000€ par an sur cinq ans après soustraction de la subvention de l’Etat pour l’installation, puis 10 000€ par an pour le fonctionnement) qui correspondrait aux dépenses annuelles dues aux dégradations de la ville, soit 25 000€. [^3]
 
 On peut s’étonner du faible budget annoncé par la municipalité comparé à la moyenne nationale. Faut-il donc anticiper une augmentation des frais suite à l’installation ?
 
@@ -34,17 +36,14 @@ C’est pourtant cette même mixité qui seule permet la compréhension des int�
 
 Seule une vie de quartier riche et une vigilance collective permise par un exercice commun de la démocratie permettent de prendre soins les uns des autres et de diminuer les délits, si mineurs soient-t-ils. De plus accepter pour ces raisons les caméras, c’est oublier que ces dispositifs servent tout autant voir plus au contrôle du mouvement social et au contrôle des populations qu’à leur protection.
 
-Nous ne pouvons pas nous asseoir sur nos libertés, comme les gouvernements successifs nous le demandent depuis plusieurs années, et nos responsabilités en exigeant l’impossible qui serait un policier à chaque rue et une caméra à chaque intersection.
+Nous ne pouvons pas nous asseoir sur nos libertés, comme les gouvernements successifs nous le demandent depuis plusieurs années, et nos responsabilités tout en exigeant l’impossible : un policier à chaque rue et une caméra à chaque intersection.
 Nous ne voulons pas que le contrôle devienne la norme, la perte de confiance collective une fatalité et la dépense inutile de centaines de milliers d’euros un moindre mal.
 
-Nous appelons tous et toutes les habitantEs de Fougères et de Maen-Roch à lutter contre l’installation de caméras !
 
-Pour en discuter vous pouvez nous contacter à [fougeres@alternativelibertaire.org](mailto:fougeres@alternativelibertaire.org)
+---
 
- 
+[^1]:[Maen-Roch. Le projet de vidéoprotection prend tournure – Ouest France – 27/06/2017](https://www.ouest-france.fr/bretagne/maen-roch-35460/maen-roch-le-projet-de-videoprotection-prend-tournure-5093271)
 
-(1) [Maen-Roch. Le projet de vidéoprotection prend tournure – Ouest France – 27/06/2017](https://www.ouest-france.fr/bretagne/maen-roch-35460/maen-roch-le-projet-de-videoprotection-prend-tournure-5093271)
+[^2]:[L’ORGANISATION ET LA GESTION DES FORCES DE SÉCURITÉ PUBLIQUE – Rapport de la Cour des comptes – 07/07/2011](http://www.lemonde.fr/mmpub/edt/doc/20110707/1545747_3260_rpt_securite_publique_definitif.pdf)
 
-(2) [L’ORGANISATION ET LA GESTION DES FORCES DE SÉCURITÉ PUBLIQUE – Rapport de la Cour des comptes – 07/07/2011](http://www.lemonde.fr/mmpub/edt/doc/20110707/1545747_3260_rpt_securite_publique_definitif.pdf)
-
-(3) [Sécurité. La Ville expérimentera la vidéo surveillance – La Chronique républicaine – 19/04/2015](https://actu.fr/bretagne/fougeres_35115/securite-la-ville-experimentera-la-video-surveillance_2912489.html)
+[^3]:[Sécurité. La Ville expérimentera la vidéo surveillance – La Chronique républicaine – 19/04/2015](https://actu.fr/bretagne/fougeres_35115/securite-la-ville-experimentera-la-video-surveillance_2912489.html)

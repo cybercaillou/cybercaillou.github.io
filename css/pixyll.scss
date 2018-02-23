@@ -33,3 +33,26 @@
 @import 'gists';
 @import 'measure';
 @import 'pagination';
+
+
+.footnotes, .footnotes ol, .footnotes p {
+	font-size: 0.7rem;
+}
+
+a {
+	color: #c00909 !important;
+	background-image: none;
+}
+
+.site-header a {
+	color: #333 !important;
+}
+
+.button-perso {
+	color: white;
+	background-color: #c00909;
+	border-radius: 3px;
+	transition-duration: .1s;
+	transition-timing-function: ease-out;
+	transition-property: box-shadow, background-color;
+}
