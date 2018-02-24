@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thanks For Your Message
-permalink: /thanks/
+title: Merci pour le message !
+permalink: /merci/
 ---
 {{ site.text.thanks }}

@@ -111,7 +111,7 @@ text:
       sending:  'envoi..'
       sent:     'Message envoyé !'
       error:    'Erreur !'
-  thanks: 'Merci pour le message. On tentera de vous répondre tout bientôt ;)'
+  thanks: 'On tentera de vous répondre tout bientôt ;)'
   og_locale: 'fr_FR'
 
 # Build settings
