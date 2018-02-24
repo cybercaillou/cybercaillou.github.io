@@ -49,14 +49,10 @@ a {
 }
 
 .button-perso {
-	color: white;
+	color: white !important;
 	background-color: #c00909;
 	border-radius: 3px;
 	transition-duration: .1s;
 	transition-timing-function: ease-out;
 	transition-property: box-shadow, background-color;
-}
-
-a .button-perso {
-	color: white !important;
 }
